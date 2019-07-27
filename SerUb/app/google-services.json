@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701232857729",
+    "firebase_url": "https://serub-c8f79.firebaseio.com",
+    "project_id": "serub-c8f79",
+    "storage_bucket": "serub-c8f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701232857729:android:52ebd26f9b716c99",
+        "android_client_info": {
+          "package_name": "com.example.danish.serub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701232857729-argtunmumv4b2ve2al696dk1s3vmjd6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danish.serub",
+            "certificate_hash": "315a28d0cef18e263a1da10c397730e911d8dba2"
+          }
+        },
+        {
+          "client_id": "701232857729-619ru0vvabeiutettkrp4ta2ouidmchq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ceqXsgzqDMO3gufheK_h4wnDD8IE3D4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701232857729-619ru0vvabeiutettkrp4ta2ouidmchq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
